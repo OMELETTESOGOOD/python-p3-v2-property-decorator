@@ -7,7 +7,7 @@ APPROVED_BREEDS = [
     "French Bulldog",
     "Pug",
     "Pointer",
-    "Blue Tick"   # Added because it's part of your example
+    "Blue Tick"   
 ]
 
 class Dog:
